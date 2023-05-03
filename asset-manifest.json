@@ -1,13 +1,16 @@
 {
   "files": {
-    "main.css": "/ReactMovies/static/css/main.4b70186f.css",
-    "main.js": "/ReactMovies/static/js/main.108ff03a.js",
+    "main.css": "/ReactMovies/static/css/main.d6ec0f7e.css",
+    "main.js": "/ReactMovies/static/js/main.c2e4d278.js",
+    "static/media/akzidenzgroteskpro_light.ttf": "/ReactMovies/static/media/akzidenzgroteskpro_light.e82717a2f59fe774356f.ttf",
+    "static/media/akzidenzgroteskpro_mdex.ttf": "/ReactMovies/static/media/akzidenzgroteskpro_mdex.a78727b29a87f398b911.ttf",
+    "static/media/akzidenzgroteskpro_medextit.ttf": "/ReactMovies/static/media/akzidenzgroteskpro_medextit.4fea4032e141cdee3a24.ttf",
     "index.html": "/ReactMovies/index.html",
-    "main.4b70186f.css.map": "/ReactMovies/static/css/main.4b70186f.css.map",
-    "main.108ff03a.js.map": "/ReactMovies/static/js/main.108ff03a.js.map"
+    "main.d6ec0f7e.css.map": "/ReactMovies/static/css/main.d6ec0f7e.css.map",
+    "main.c2e4d278.js.map": "/ReactMovies/static/js/main.c2e4d278.js.map"
   },
   "entrypoints": [
-    "static/css/main.4b70186f.css",
-    "static/js/main.108ff03a.js"
+    "static/css/main.d6ec0f7e.css",
+    "static/js/main.c2e4d278.js"
   ]
 }
